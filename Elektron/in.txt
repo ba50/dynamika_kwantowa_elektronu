@@ -1,0 +1,6 @@
+100			#N
+1e-4		#dtau
+3e3			#end
+1			#n
+3.12			#omega
+1			#kappa

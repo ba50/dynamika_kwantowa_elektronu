@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\bartek\onedrive\dokumenty\studia\4 rok\vii\komputerowe metody symulacji\ćwiczenie 2\elektron\elektron\main.cpp(81): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bartek\onedrive\dokumenty\studia\4 rok\vii\komputerowe metody symulacji\ćwiczenie 2\elektron\elektron\main.cpp(84): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\bartek\onedrive\dokumenty\studia\4 rok\vii\komputerowe metody symulacji\ćwiczenie 2\elektron\elektron\main.cpp(84): warning C4018: '<': signed/unsigned mismatch
+  Elektron.vcxproj -> C:\Users\Bartek\OneDrive\Dokumenty\Studia\4 rok\VII\Komputerowe Metody Symulacji\ćwiczenie 2\Elektron\x64\Debug\Elektron.exe
